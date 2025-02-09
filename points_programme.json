@@ -1,0 +1,27 @@
+{
+    "frexit": {
+        "titre": "FREXIT : On reprend les rênes !",
+        "citation_beru": "Bruxelles ? Moi vivant, j’y fous plus les pieds, à part pour vider leurs caves !",
+        "citation_desproges": "Quitter l’UE, c’est comme divorcer d’une belle-mère : ça libère et ça coûte moins cher."
+    },
+    "retour_franc": {
+        "titre": "Retour au Franc : Un billet qui sent bon le pain !",
+        "citation_beru": "Un bon vieux billet, ça passe mieux dans le comptoir qu’un numéro de carte !",
+        "citation_desproges": "L’Euro, c’est comme un médicament générique : personne ne sait ce qu’il y a dedans, mais on nous force à le prendre."
+    },
+    "nucleaire": {
+        "titre": "Relance du Nucléaire : Indépendance énergétique !",
+        "citation_beru": "Allumez-moi ces centrales, qu’on arrête de mendier du gaz aux Russes !",
+        "citation_desproges": "Le nucléaire, c’est comme le pinard : ça peut être bon, mais faut pas en abuser." 
+    },
+    "suppression_impots": {
+        "titre": "Suppression des Taxes : Stop au racket !",
+        "citation_beru": "Les impôts, c’est comme les amendes : ça tombe toujours sur les mêmes !",
+        "citation_desproges": "Payer des impôts, c’est comme donner des bonbons à un diabétique : ça fait plaisir, mais ça finit mal." 
+    },
+    "police_autorisation": {
+        "titre": "Autorisation des Forces de l’Ordre à se défendre !",
+        "citation_beru": "Un flic qui sort son arme, c’est pas pour faire du macramé !",
+        "citation_desproges": "La police ne tire jamais sans raison, sauf en politique." 
+    }
+}
