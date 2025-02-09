@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programme Politique du Jour</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Programme Politique du Jour</h1>
+        <nav>
+            <a href="historique.html">Historique</a>
+            <a href="aphorismes.html">Aphorismes</a>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="programme">
+            <h2 id="titre-programme">Programme du jour</h2>
+            <ul id="points-programme"></ul>
+        </section>
+
+        <section id="sondage">
+            <h2>Sondage du jour</h2>
+            <p>🗳️ <strong>Votez pour votre point préféré et celui à oublier</strong></p>
+            <button class="vote" data-type="preference" data-choix="frexit">🇫🇷 FREXIT</button>
+            <button class="vote" data-type="oubli" data-choix="pinard">🍷 Ministre du Pinard</button>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 - Site Politique</p>
+    </footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>
